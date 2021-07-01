@@ -8,7 +8,7 @@ import java.util.Scanner;
 import entities.Employee;
 import entities.OutsourcedEmployee;
 
-public class Payment {
+public class appPayment {
 	public static void main(String[] args) {
 
 		Locale.setDefault(Locale.US);
